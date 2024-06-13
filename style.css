@@ -28,4 +28,13 @@ body{
     text-align: center;
     list-style-position: inside;
 }
+.mybutton{
+    background-color: aqua;
+    color: #0941f8;
+padding: 10px 20px;
+border: none;
+cursor: none;
+
+
+}
 
