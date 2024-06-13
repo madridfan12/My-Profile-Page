@@ -1,0 +1,31 @@
+h1 {
+    color: crimson;
+    text-align: center;
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: medium;}
+
+
+h2{
+color: rebeccapurple
+
+} 
+
+body{
+    background-color: chartreuse;
+}
+
+.styleli {
+    color: red;
+    font-weight: 300;
+    font-size: 18px;
+}
+
+
+.align-center {
+    text-align: center;
+    list-style-position: inside;
+}
+
