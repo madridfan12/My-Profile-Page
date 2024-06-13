@@ -28,13 +28,22 @@ body{
     text-align: center;
     list-style-position: inside;
 }
+
 .mybutton{
-    background-color: aqua;
-    color: #0941f8;
+background-color: aqua;
+color: #0941f8;
 padding: 10px 20px;
 border: none;
 cursor: none;
+}
 
+.image {
+    width: 300px;
+    
+    height:auto;
+}
 
+.gradiant {
+    background: linear-gradient(to right, green ,red,yellow);
 }
 
